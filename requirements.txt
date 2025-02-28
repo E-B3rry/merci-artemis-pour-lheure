@@ -1,2 +1,2 @@
 git+https://github.com/dolfies/discord.py-self.git
-spacy~=3.8.4
+spacy~=3.8.3
